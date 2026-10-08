@@ -1,8 +1,10 @@
 class Task2{
 public static void main(String[] args) {
-        char letterH = 'H';
+        char H = 'H';
+        int three = 3;
+        short e = 1;
         byte zero = 0;
-        short one = 1;
+        short e = 1;
         int three = 3;
         float decimal = 2.0f;
         boolean bool = true;
